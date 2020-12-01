@@ -1,7 +1,5 @@
 import java.util.Arrays;
 
-import static java.util.Arrays.asList;
-
 public class BubbleSort {
 
     public static void main(String[] args) {
