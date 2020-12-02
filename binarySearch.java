@@ -1,6 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
+        //O(log n)
         int[] array = {0, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233};
         System.out.println(Arrays.toString(array));
         int max = array.length-1;
