@@ -8,12 +8,6 @@ public class Main {
         graph.addVertex('E'); //4
         graph.addVertex('F'); //5
 
-        graph.addEdge(0,1,1); //AB
-        graph.addEdge(1,2,1); //BC
-        graph.addEdge(2,3,1); //CD
-        graph.addEdge(0,4,1); //AE
-        graph.addEdge(4,5,1); //EF
-
-        graph.dfs(0);
+        
     }
 }
